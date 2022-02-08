@@ -1,2 +1,2 @@
-"Append text in localBranch" 
-"appended text is only in newLocalBranch" 
+#"Append text in localBranch" 
+#"appended text is only in newLocalBranch" 
