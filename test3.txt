@@ -1,2 +1,2 @@
 #h1
-#h2 -> only in New local branch
+#h2 -> only in Master branch
